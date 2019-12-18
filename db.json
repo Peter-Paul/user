@@ -13,7 +13,8 @@
                 "city": "Kulas Light",
                 "street": "Apt. 556"
             },
-            "phone": "1-770-736-8031 x56442"
+            "phone": "1-770-736-8031 x56442",
+            "joined": "Wed Dec 18 2019 10:09:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 2,
@@ -29,7 +30,8 @@
                 "street": "Victor Plains",
                 "city": "Suite 879"
             },
-            "phone": "010-692-6593 x09125"
+            "phone": "010-692-6593 x09125",
+            "joined": "Sun Sep 1 2019 00:09:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 3,
@@ -44,7 +46,8 @@
                 "street": "Douglas Extension",
                 "city": "McKenziehaven"
             },
-            "phone": "1-463-123-4447"
+            "phone": "1-463-123-4447",
+            "joined": "Fri Nov 20 2019 07:09:58 GMT+0300 (East Africa Time)"
         },
         {
             "id": 4,
@@ -60,7 +63,8 @@
                 "street": "Hoeger Mall",
                 "city": "South Elvis"
             },
-            "phone": "493-170-9623 x156"
+            "phone": "493-170-9623 x156",
+            "joined": "Sun Dec 1 2019 10:09:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 5,
@@ -77,7 +81,8 @@
                 "street": "Skiles Walks",
                 "city": "Roscoeview"
             },
-            "phone": "(254)954-1289"
+            "phone": "(254)954-1289",
+            "joined": "Fri May 17 2019 22:09:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 6,
@@ -96,7 +101,8 @@
                 "street": "Norberto Crossing",
                 "city": "South Christy"
             },
-            "phone": "1-477-935-8478 x6430"
+            "phone": "1-477-935-8478 x6430",
+            "joined": "Wed Jun 12 2019 18:09:50 GMT+0300 (East Africa Time)"
         },
         {
             "id": 7,
@@ -112,7 +118,8 @@
                 "street": "Rex Trail",
                 "city": "Howemouth"
             },
-            "phone": "210.067.6132"
+            "phone": "210.067.6132",
+            "joined": "Mon Mar 18 2019 20:10:19 GMT+0300 (East Africa Time)"
         },
         {
             "id": 8,
@@ -128,7 +135,8 @@
                 "street": "Ellsworth Summit",
                 "city": "Aliyaview"
             },
-            "phone": "586.493.6943 x140"
+            "phone": "586.493.6943 x140",
+            "joined": "Thur Apr 25 2019 10:09:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 9,
@@ -146,7 +154,8 @@
                 "street": "Dayna Park",
                 "city": "Bartholomebury"
             },
-            "phone": "(775)976-6794 x41206"
+            "phone": "(775)976-6794 x41206",
+            "joined": "Wed Feb 27 2019 19:09:01 GMT+0300 (East Africa Time)"
         },
         {
             "id": 10,
@@ -165,30 +174,33 @@
                 "street": "Kattie Turnpike",
                 "city": "Lebsackbury"
             },
-            "phone": "024-648-3804"
+            "phone": "024-648-3804",
+            "joined": "Fri Mar 29 2019 15:09:55 GMT+0300 (East Africa Time)"
         },
         {
             "id": 11,
             "status": "yp plus",
-            "name": "Leanne Graham",
-            "username": "Bret",
-            "email": "Sincere@april.biz",
+            "name": "Mungati Peter",
+            "username": "Peter",
+            "email": "ppmunga@hotmail.com",
             "skills": [
                 "Networking",
-                "C++"
+                "C++",
+                "Python"
             ],
             "address": {
                 "city": "Kulas Light",
                 "street": "Apt. 556"
             },
-            "phone": "1-770-736-8031 x56442"
+            "phone": "1-770-736-8031 x56442",
+            "joined": "Fri May 24 2019 17:09:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 12,
             "status": "m",
-            "name": "Ervin Howell",
-            "username": "Antonette",
-            "email": "Shanna@melissa.tv",
+            "name": "Ervin Green",
+            "username": "Ervin G",
+            "email": "green007@melissa.tv",
             "skills": [
                 "Marketing",
                 "SEO"
@@ -197,14 +209,15 @@
                 "street": "Victor Plains",
                 "city": "Suite 879"
             },
-            "phone": "010-692-6593 x09125"
+            "phone": "010-692-6593 x09125",
+            "joined": "Mon May 20 2019 11:09:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 13,
             "status": "yp",
-            "name": "Clementine Bauch",
-            "username": "Samantha",
-            "email": "Nathan@yesenia.net",
+            "name": "Samantha Bauch",
+            "username": "Samy",
+            "email": "samy43@yesenia.net",
             "skills": [
                 "Graphics Design",
                 "Social Media",
@@ -214,14 +227,15 @@
                 "street": "Douglas Extension",
                 "city": "McKenziehaven"
             },
-            "phone": "1-463-123-4447"
+            "phone": "1-463-123-4447",
+            "joined": "Fri May 31 2019 12:29:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 14,
             "status": "yp plus",
-            "name": "Patricia Lebsack",
-            "username": "Karianne",
-            "email": "Julianne.OConner@kory.org",
+            "name": "Anita Lebsack",
+            "username": "Anne",
+            "email": "anne56@kory.org",
             "skills": [
                 "Flask",
                 "Django",
@@ -231,14 +245,15 @@
                 "street": "Hoeger Mall",
                 "city": "South Elvis"
             },
-            "phone": "493-170-9623 x156"
+            "phone": "493-170-9623 x156",
+            "joined": "Wed Dec 18 2019 10:09:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 15,
             "status": "e plus",
-            "name": "Chelsey Dietrich",
-            "username": "Kamren",
-            "email": "Lucio_Hettinger@annie.ca",
+            "name": "Dauda Dietrich",
+            "username": "Kamanda",
+            "email": "kan=manda@annie.ca",
             "skills": [
                 "Angular",
                 "React",
@@ -249,14 +264,15 @@
                 "street": "Skiles Walks",
                 "city": "Roscoeview"
             },
-            "phone": "(254)954-1289"
+            "phone": "(254)954-1289",
+            "joined": "Wed Dec 11 2019 13:08:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 16,
             "status": "yp",
-            "name": "Mrs. Dennis Schulist",
-            "username": "Leopoldo_Corkery",
-            "email": "Karley_Dach@jasper.info",
+            "name": "Mr. Dennis Wokorach",
+            "username": "Dennis",
+            "email": "deno@jasper.info",
             "skills": [
                 "Angular",
                 "React",
@@ -268,14 +284,15 @@
                 "street": "Norberto Crossing",
                 "city": "South Christy"
             },
-            "phone": "1-477-935-8478 x6430"
+            "phone": "1-477-935-8478 x6430",
+            "joined": "Mon Nov 25 2019 10:09:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 17,
             "status": "su plus",
-            "name": "Kurtis Weissnat",
-            "username": "Elwyn.Skiles",
-            "email": "Telly.Hoeger@billy.biz",
+            "name": "Kurtis Rashford",
+            "username": "Rash",
+            "email": "rashk@billy.biz",
             "skills": [
                 "Angular",
                 "PHP"
@@ -284,14 +301,15 @@
                 "street": "Rex Trail",
                 "city": "Howemouth"
             },
-            "phone": "210.067.6132"
+            "phone": "210.067.6132",
+            "joined": "Fri Nov 15 2019 10:09:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 18,
             "status": "m plus",
-            "name": "Nicholas Runolfsdottir V",
-            "username": "Maxime_Nienow",
-            "email": "Sherwood@rosamond.me",
+            "name": "Nicholas Pepe V",
+            "username": "Pepe",
+            "email": "pepe@rosamond.me",
             "skills": [
                 "Angular",
                 "Django"
@@ -300,14 +318,15 @@
                 "street": "Ellsworth Summit",
                 "city": "Aliyaview"
             },
-            "phone": "586.493.6943 x140"
+            "phone": "586.493.6943 x140",
+            "joined": "Mon Nov 04 2019 15:29:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 19,
             "status": "su plus",
-            "name": "Glenna Reichert",
-            "username": "Delphine",
-            "email": "Chaim_McDermott@dana.io",
+            "name": "Glenna Martial",
+            "username": "Anthony",
+            "email": "amg@dana.io",
             "skills": [
                 "Accounts"
             ],
@@ -315,14 +334,15 @@
                 "street": "Dayna Park",
                 "city": "Bartholomebury"
             },
-            "phone": "(775)976-6794 x41206"
+            "phone": "(775)976-6794 x41206",
+            "joined": "Fri Oct 25 2019 12:09:53 GMT+0300 (East Africa Time)"
         },
         {
             "id": 20,
             "status": "su plus",
-            "name": "Clementina DuBuque",
-            "username": "Moriah.Stanton",
-            "email": "Rey.Padberg@karina.biz",
+            "name": "Clementina Braidy",
+            "username": "Leech",
+            "email": "becky@karina.biz",
             "skills": [
                 "Angular",
                 "React",
@@ -335,7 +355,8 @@
                 "street": "Kattie Turnpike",
                 "city": "Lebsackbury"
             },
-            "phone": "024-648-3804"
+            "phone": "024-648-3804",
+            "joined": "Fri Sep 27 2019 11:00:53 GMT+0300 (East Africa Time)"
         }
     ]
 }
