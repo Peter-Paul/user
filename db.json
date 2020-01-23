@@ -6,6 +6,7 @@
             "name": "Leanne Graham",
             "username": "Bret",
             "email": "Sincere@april.biz",
+            "proffession": "Blogger",
             "skills": [
                 "Networking"
             ],
@@ -22,6 +23,7 @@
             "name": "Ervin Howell",
             "username": "Antonette",
             "email": "Shanna@melissa.tv",
+            "proffession": "Accountant",
             "skills": [
                 "Marketing",
                 "SEO"
@@ -39,6 +41,7 @@
             "name": "Clementine Bauch",
             "username": "Samantha",
             "email": "Nathan@yesenia.net",
+            "proffession": "Graphics Designer",
             "skills": [
                 "WordPress"
             ],
@@ -55,6 +58,7 @@
             "name": "Patricia Lebsack",
             "username": "Karianne",
             "email": "Julianne.OConner@kory.org",
+            "proffession": "Marketer",
             "skills": [
                 "Flask",
                 "Django"
@@ -72,6 +76,7 @@
             "name": "Chelsey Dietrich",
             "username": "Kamren",
             "email": "Lucio_Hettinger@annie.ca",
+            "proffession": "Painter",
             "skills": [
                 "Angular",
                 "React",
@@ -90,6 +95,7 @@
             "name": "Mrs. Dennis Schulist",
             "username": "Leopoldo_Corkery",
             "email": "Karley_Dach@jasper.info",
+            "proffession": "Frontend Developer",
             "skills": [
                 "Angular",
                 "React",
@@ -110,6 +116,7 @@
             "name": "Kurtis Weissnat",
             "username": "Elwyn.Skiles",
             "email": "Telly.Hoeger@billy.biz",
+            "proffession": "Programmer",
             "skills": [
                 "Angular",
                 "PHP"
@@ -127,6 +134,7 @@
             "name": "Nicholas Runolfsdottir V",
             "username": "Maxime_Nienow",
             "email": "Sherwood@rosamond.me",
+            "proffession": "Fullstack Developer",
             "skills": [
                 "Angular",
                 "Django"
@@ -144,6 +152,7 @@
             "name": "Glenna Reichert",
             "username": "Delphine",
             "email": "Chaim_McDermott@dana.io",
+            "proffession": "Frontend Developer",
             "skills": [
                 "Angular",
                 "CSS3",
@@ -163,6 +172,7 @@
             "name": "Clementina DuBuque",
             "username": "Moriah.Stanton",
             "email": "Rey.Padberg@karina.biz",
+            "proffession": "Marketer",
             "skills": [
                 "Angular",
                 "React",
@@ -183,6 +193,7 @@
             "name": "Mungati Peter",
             "username": "Peter",
             "email": "ppmunga@hotmail.com",
+            "proffession": "Software Enginner",
             "skills": [
                 "Networking",
                 "C++",
@@ -201,6 +212,7 @@
             "name": "Ervin Green",
             "username": "Ervin G",
             "email": "green007@melissa.tv",
+            "proffession": "Marketer",
             "skills": [
                 "Marketing",
                 "SEO"
@@ -218,6 +230,7 @@
             "name": "Samantha Bauch",
             "username": "Samy",
             "email": "samy43@yesenia.net",
+            "proffession": "Graphics Designer",
             "skills": [
                 "Graphics Design",
                 "Social Media",
@@ -236,6 +249,7 @@
             "name": "Anita Lebsack",
             "username": "Anne",
             "email": "anne56@kory.org",
+            "proffession": "Backend Developer",
             "skills": [
                 "Flask",
                 "Django",
@@ -254,6 +268,7 @@
             "name": "Dauda Dietrich",
             "username": "Kamanda",
             "email": "kan=manda@annie.ca",
+            "proffession": "Statistician",
             "skills": [
                 "Angular",
                 "React",
@@ -273,6 +288,7 @@
             "name": "Mr. Dennis Wokorach",
             "username": "Dennis",
             "email": "deno@jasper.info",
+            "proffession": "Frontend Developer",
             "skills": [
                 "Angular",
                 "React",
@@ -293,6 +309,7 @@
             "name": "Kurtis Rashford",
             "username": "Rash",
             "email": "rashk@billy.biz",
+            "proffession": "Programmer",
             "skills": [
                 "Angular",
                 "PHP"
